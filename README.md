@@ -68,7 +68,7 @@ account = api.get_account()
 reward = 2  # target
 risk = 1  # stops
 ```
-main.py>line:19
+main.py #line:19
 
 ## Before deploying
 
