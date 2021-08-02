@@ -1,7 +1,5 @@
 # loop_my_wallet
 
-loop_my_wallet a stock trading bot
-
 ## Description
 
 loop_my_wallet a tading bot which uses 50+candlestick patterns,Moving average convergence divergence (MACD) to find entry points and average true range (ATR) to tail stops and targets.By defualt it is set to trade in Alpaca paper-trade
