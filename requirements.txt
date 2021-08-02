@@ -1,0 +1,5 @@
+schedule
+yfinance
+pandas
+TA-Lib
+alpaca_trade_api
