@@ -10,7 +10,8 @@ loop_my_wallet a tading bot which uses 50+candlestick patterns,Moving average co
 
 #1 if a candlestick is recognized
 
-#2 and if its bullish #3 if MACD > signaline 
+#2 and if its bullish 
+#3 if MACD > signalline 
 
 #4 setting targets and stops according to risk/reward
 
