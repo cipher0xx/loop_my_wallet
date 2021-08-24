@@ -141,7 +141,7 @@ def market_order():
                                 stop_price=int(low - stops),
                                 limit_price=int(low - stops)))
                     except trade.rest.APIError:
-                        print('fucked')
+                        pass
 
             else:
                 pass
