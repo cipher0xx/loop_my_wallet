@@ -1,8 +1,6 @@
 # loop_my_wallet
 
-## Description
-
-loop_my_wallet a tading bot which uses 50+candlestick patterns,Moving average convergence divergence (MACD) to find entry points and average true range (ATR) to tail stops and targets.By default it is set to trade in Alpaca paper-trade
+## Trading BOT
 
 ## Trading Strategy
 
@@ -10,11 +8,9 @@ loop_my_wallet a tading bot which uses 50+candlestick patterns,Moving average co
 
 #2 and if its bullish 
 
-#3 if MACD > signalline 
+#3 setting targets and stops according to risk/reward
 
-#4 setting targets and stops according to risk/reward
-
-#5 fill order 
+#4 fill order 
 
 ## Installation
 
@@ -25,7 +21,7 @@ Use the package [talib](https://mrjbq7.github.io/ta-lib/) to install
 ## Install requirements
 
 ```bash
-pip install requirements.txt
+pip3 install requirements.txt
 ```
 
 ## API login
